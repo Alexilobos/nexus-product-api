@@ -16,7 +16,7 @@ Permite buscar productos, ver el detalle de un producto y almacenar un historial
 
 ## 🧩 Estructura del Proyecto
 
-\`\`\`
+<pre>
 src/
 ├── products/
 │   ├── controllers/products.controller.ts
@@ -27,7 +27,6 @@ src/
 │   └── history.json
 ├── app.module.ts
 └── main.ts
-\`\`\`
 
 ---
 
